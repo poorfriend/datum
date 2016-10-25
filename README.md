@@ -8,3 +8,9 @@ https://github.com/yingjieyao/BBR/blob/e2e56cbf5ad798d17bd53b81171c25df80650885/
 http://www.vlfeat.org/matconvnet/pretrained/
 
 https://github.com/jay-mahadeokar/pynetbuilder/blob/master/models/imagenet/Readme.md
+
+Densely Connected Convolutional Network (DenseNet)
+
+https://github.com/liuzhuang13/DenseNetCaffe
+
+https://github.com/liuzhuang13/DenseNet/issues/7
