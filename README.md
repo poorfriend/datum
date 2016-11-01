@@ -14,3 +14,6 @@ Densely Connected Convolutional Network (DenseNet)
 https://github.com/liuzhuang13/DenseNetCaffe
 
 https://github.com/liuzhuang13/DenseNet/issues/7
+
+ResNet
+https://github.com/tornadomeet/ResNet
